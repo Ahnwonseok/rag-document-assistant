@@ -1,0 +1,9 @@
+package com.project.llm.chat.dto;
+
+import jakarta.validation.constraints.NotBlank;
+
+public record ChatRequest(
+        @NotBlank String question,
+        String sessionId
+) {
+}
