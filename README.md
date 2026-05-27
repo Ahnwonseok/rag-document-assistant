@@ -1,4 +1,4 @@
-# RAG Document Assistant 
+# RAG Document Assistant
 
 An AI-powered document Q&A system that uses Retrieval-Augmented Generation (RAG) to provide accurate answers grounded in your uploaded documents.
 
